@@ -1,0 +1,2 @@
+logbookapplication.Logbook
+logbookapplication.LogbookApplication
